@@ -1,0 +1,18 @@
+#define KEY1 2
+#define KEY2 4
+
+void setup() {
+  pinMode(KEY1, INPUT_PULLUP);
+  pinMode(KEY2, INPUT_PULLUP);
+  Serial.begin(115200);
+}
+
+void loop() {
+  int k1 = !digitalRead(KEY1);
+  int k2 = !digitalRead(KEY2);
+
+  Serial.print(k1);
+  Serial.print(",");
+  Serial.println(k2);
+  delay(1); // ultra low delay for speed
+}
