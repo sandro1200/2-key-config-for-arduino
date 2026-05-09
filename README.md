@@ -1,2 +1,33 @@
-# 2-key-config-for-arduino
-this is serial translator thingy from arduino to pc this is for python 3.13 so basically thing is u gotta make your own shortcuts and u can add video bagrounds too video link will be here too so this acts as comunicator betweem system and windows more explanatsion in the "READ ME" file
+[READ ME.txt](https://github.com/user-attachments/files/27557153/READ.ME.txt)
+
+# Holo System
+
+A custom 2-key osu!/rhythm game input system made with Python + Arduino.
+
+This app reads 2 button inputs from an Arduino over serial and turns them into keyboard presses on your PC.  
+It also includes a custom visual interface with themes, animated effects, video backgrounds, tray mode, and live key testing.
+
+---
+
+# Features
+
+- Arduino serial input
+- Auto port detection
+- Custom keybinds
+- Real-time input visualizer
+- Animated particle effects
+- Theme system
+- Video backgrounds
+- System tray support
+- Lightweight fullscreen-style UI
+- Works for osu! and other rhythm games
+
+---
+
+# Requirements
+
+## Python Packages (Required)
+
+Install all dependencies with: open terminal as admin and run this exact code in terminal
+
+"pip install pyserial pynput PyQt6 opencv-python"
