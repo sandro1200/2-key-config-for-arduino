@@ -1,6 +1,6 @@
 [READ ME.txt](https://github.com/user-attachments/files/27557153/READ.ME.txt)
 
-https://youtu.be/yIpc_uuVNHw there is youtube link for tutorial
+there is youtube link for tutorial https://youtu.be/yIpc_uuVNHw
 
 # Holo System
 
