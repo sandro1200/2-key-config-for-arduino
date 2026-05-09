@@ -1,5 +1,7 @@
 [READ ME.txt](https://github.com/user-attachments/files/27557153/READ.ME.txt)
 
+https://youtu.be/yIpc_uuVNHw there is youtube link for tutorial
+
 # Holo System
 
 A custom 2-key osu!/rhythm game input system made with Python + Arduino.
